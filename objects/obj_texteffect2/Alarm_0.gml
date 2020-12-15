@@ -1,0 +1,1 @@
+if(fade) decr = true;

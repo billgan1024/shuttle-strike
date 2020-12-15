@@ -1,0 +1,1 @@
+group = state.shop; text = "Damage Up";

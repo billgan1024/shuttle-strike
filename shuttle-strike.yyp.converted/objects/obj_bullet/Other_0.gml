@@ -1,0 +1,1 @@
+if(!exists) instance_destroy();

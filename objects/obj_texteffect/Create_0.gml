@@ -1,0 +1,1 @@
+vspeed = -3; alpha = 3; text = "";

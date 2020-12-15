@@ -1,0 +1,1 @@
+grav = 0.05; maxGrav = 12; vsp = 0;

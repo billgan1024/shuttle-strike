@@ -1,0 +1,1 @@
+showFullscreen = true; group = state.options;

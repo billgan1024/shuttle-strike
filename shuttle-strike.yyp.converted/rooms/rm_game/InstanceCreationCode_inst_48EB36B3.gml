@@ -1,0 +1,1 @@
+text = "Game Paused"; group = state.game;

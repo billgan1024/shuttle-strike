@@ -1,0 +1,1 @@
+group = state.shop; isImage = true; sprite = spr_defense;

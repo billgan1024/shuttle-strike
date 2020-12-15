@@ -1,0 +1,1 @@
+font = fnt_small; ha = fa_left; va = fa_bottom; text = "Back";

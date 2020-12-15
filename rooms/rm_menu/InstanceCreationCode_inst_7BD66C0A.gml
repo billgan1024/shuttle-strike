@@ -1,0 +1,1 @@
+isImage = true; sprite = spr_arrowkeys;

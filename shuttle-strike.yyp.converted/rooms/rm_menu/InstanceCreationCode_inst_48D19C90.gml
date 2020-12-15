@@ -1,0 +1,1 @@
+showSfx = true; group = state.options; r = 1;

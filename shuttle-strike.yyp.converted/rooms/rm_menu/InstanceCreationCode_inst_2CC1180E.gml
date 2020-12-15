@@ -1,0 +1,1 @@
+text = "How to Play"; r = 1;

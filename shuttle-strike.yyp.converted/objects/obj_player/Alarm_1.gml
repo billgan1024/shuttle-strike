@@ -1,0 +1,1 @@
+regenAmmo = true;
